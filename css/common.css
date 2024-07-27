@@ -29,6 +29,17 @@ img {
   background-color: #333;
   color: #fff;
 }
+.btn.btn--primary {
+  color: #fff;
+  background-color: #ea9926;
+  border: none;
+}
+.btn.btn--primary:hover {
+  background-color: #cc8823;
+}
+.btn.block {
+  width: 100%;
+}
 
 /* Header */
 header {
